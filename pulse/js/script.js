@@ -128,7 +128,7 @@ $(document).ready(function(){
     window.onload = event => {
         setTimeout(function() {
             document.getElementById("footer__map").style.visibility = "visible";
-        }, 9000);
+        }, 5000);
     };
 });
 
