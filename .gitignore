@@ -4,6 +4,9 @@
 /node_modules
 node_modules
 */node_modules
+/mailer
+mailer
+*/mailer
 
 # testing
 /coverage
